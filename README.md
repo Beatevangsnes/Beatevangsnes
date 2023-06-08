@@ -3,6 +3,9 @@
 - 🫧 I’m currently studying frontend development
 - 📫 How to reach me: beatevangsnes@icloud.com
 
+## 🫱🏽‍🫲🏾 Connect with me
+
+
 <!--
 **Beatevangsnes/Beatevangsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
