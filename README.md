@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 - 🫧 I’m currently studying frontend development
 - 📫 How to reach me: beatevangsnes@icloud.com
