@@ -4,7 +4,7 @@
 - 📫 How to reach me: beatevangsnes@icloud.com
 
 ## 🫱🏽‍🫲🏾 Connect with me
-[Linkedin] (https://www.linkedin.com/in/beate-vangsnes/)
+- 🪩 [Linkedin](https://www.linkedin.com/in/beate-vangsnes/)
 
 
 <!--
