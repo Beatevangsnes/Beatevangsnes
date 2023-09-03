@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 🫧 I’m currently studying frontend development
+- 🫧 I’m currently studying information science and frontend development.
 - 📫 How to reach me: beatevangsnes@icloud.com
 
 ## 🫱🏽‍🫲🏾 Connect with me
