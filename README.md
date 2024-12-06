@@ -1,10 +1,18 @@
 ### Hi there 👋🏽
 
-- 🫧 I’m currently studying information science and frontend development.
+- 🎓 I have completed my studies in Frontend Development and am currently pursuing a degree in Information Science.
+
+- 💻 Passionate about web development, creating user-friendly designs, and working with modern frameworks like React and Tailwind CSS.
+
 - 📫 How to reach me: beatevangsnes@icloud.com
 
+## ✨ Portfolio
+
+- 🫧 [My portfolio](https://beate-vangsnes-portfolio.netlify.app/) 🫧
+
 ## 🫱🏽‍🫲🏾 Connect with me
-- 🪩 [Linkedin](https://www.linkedin.com/in/beate-vangsnes/)
+
+- 💼 [Linkedin](https://www.linkedin.com/in/beate-vangsnes/)
 
 
 <!--
