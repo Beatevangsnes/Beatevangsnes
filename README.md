@@ -8,7 +8,7 @@
 
 ## ✨ Portfolio
 
-- 🫧 [My portfolio](https://beate-vangsnes-portfolio.netlify.app/) 🫧
+- 🫧 [My portfolio](https://beatev.netlify.app/) 🫧
 
 ## 🫱🏽‍🫲🏾 Connect with me
 
